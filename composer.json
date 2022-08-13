@@ -1,0 +1,17 @@
+{
+    "name": "taco/taco",
+    "autoload": {
+        "psr-4": {
+            "Taco\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/shawndempsey/dependencies-lettuce.git"
+        }
+    ],
+    "require": {
+        "lettuce/lettuce": "^1.0.2"
+    }
+}
