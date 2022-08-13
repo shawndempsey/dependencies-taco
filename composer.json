@@ -12,6 +12,6 @@
         }
     ],
     "require": {
-        "lettuce/lettuce": "^1.0.2"
+        "lettuce/lettuce": "^2.0.0"
     }
 }

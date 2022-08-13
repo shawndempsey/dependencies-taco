@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "63c9f7f29121b7a909ee7311d587de63",
+    "content-hash": "054954b97b4e13c495953a62f39113f1",
     "packages": [
         {
             "name": "lettuce/lettuce",
-            "version": "v1.1.0",
+            "version": "v2.0.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:shawndempsey/dependencies-lettuce.git",
-                "reference": "4841875e9b153904d274f2ed4acc69ccb84370ff"
+                "reference": "f57af285cc8e0f6345e8bebb113ac07e4c3f35ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shawndempsey/dependencies-lettuce/zipball/4841875e9b153904d274f2ed4acc69ccb84370ff",
-                "reference": "4841875e9b153904d274f2ed4acc69ccb84370ff",
+                "url": "https://api.github.com/repos/shawndempsey/dependencies-lettuce/zipball/f57af285cc8e0f6345e8bebb113ac07e4c3f35ac",
+                "reference": "f57af285cc8e0f6345e8bebb113ac07e4c3f35ac",
                 "shasum": ""
             },
             "type": "library",
@@ -27,10 +27,10 @@
                 }
             },
             "support": {
-                "source": "https://github.com/shawndempsey/dependencies-lettuce/tree/v1.1.0",
+                "source": "https://github.com/shawndempsey/dependencies-lettuce/tree/v2.0.0",
                 "issues": "https://github.com/shawndempsey/dependencies-lettuce/issues"
             },
-            "time": "2022-08-13T16:52:32+00:00"
+            "time": "2022-08-13T16:56:01+00:00"
         }
     ],
     "packages-dev": [],
