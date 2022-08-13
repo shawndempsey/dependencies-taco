@@ -9,7 +9,7 @@ class Taco
 
     public function __construct()
     {
-        echo "Taco v1.0.0\n";
+        echo "Taco v1.0.2\n";
         $this->lettuce = new Lettuce();
     }
 }
